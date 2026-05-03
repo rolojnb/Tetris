@@ -11,7 +11,7 @@ Una implementación clásica del juego Tetris desarrollada con un enfoque en có
 - Detección de colisiones y limpieza de líneas.
 
 ## Requisitos
-- (Añadir aquí el lenguaje o entorno necesario, ej: Python 3.x, Node.js, etc.)
+- Cualquier navegador es optimo para ejecutar Tetris.
 
 ## Instalación
 
